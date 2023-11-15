@@ -1,4 +1,4 @@
-### 하요 뿌요뿌요 지수짱 ###
+### 하요 뿌요뿌 지수짱 ###
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaejo-o)](https://hits.seeyoufarm.com)
 <!--
 **maejo-o/maejo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
