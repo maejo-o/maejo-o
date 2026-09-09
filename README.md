@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maejo-o&layout=compact&theme=dark)](https://github.com/maejo-o)
 
 
-<img src="https://github.com/maejo-o/maejo-o/blob/output/github-contribution-grid-snake.svg"/>
 
