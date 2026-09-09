@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=maejo-o&show_icons=true&hide_border=true&theme=dark)](https://github.com/maejo-o)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maejo-o&layout=compact&theme=dark)](https://github.com/maejo-o)
+
 
 <img src="https://github.com/maejo-o/maejo-o/blob/output/github-contribution-grid-snake.svg"/>
