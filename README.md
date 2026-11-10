@@ -1,20 +1,19 @@
-###  ###
-<!--
-**maejo-o/maejo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Jisu 👋
 
+Computer Science @ Gachon University
 
-Here are some ideas to get you started:
+- AI / LLM, RAG, Model Evaluation
+- Cloud & Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech**
 
+`Python` `PyTorch` `FAISS` `Docker` `Terraform` `AWS` `FastAPI`
 
+**Links**
 
-<img src="https://github.com/maejo-o/maejo-o/blob/output/github-contribution-grid-snake.svg"/>
+[Blog](https://velog.io/@efforterjisulee) · [Portfolio](https://app.notion.com/p/38ab92db661480cbb315c8e24a7ea24b)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maejo-o/maejo-o/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/maejo-o/maejo-o/output/github-contribution-grid-snake.svg">
+</picture>
