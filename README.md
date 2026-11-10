@@ -11,7 +11,7 @@ Computer Science @ Gachon University
 
 **Links**
 
-[Blog](https://velog.io/@efforterjisulee) · [Portfolio](https://app.notion.com/p/38ab92db661480cbb315c8e24a7ea24b)
+[Linkedin](www.linkedin.com/in/지수-이-jisu-lee)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maejo-o/maejo-o/output/github-contribution-grid-snake-dark.svg">
